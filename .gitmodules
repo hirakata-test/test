@@ -1,4 +1,4 @@
-[submodule "./cake"]
-	path = ./cake
+[submodule "cake"]
+	path = cake
 	url = https://github.com/cakephp/cakephp.git
 	ignore = dirty
