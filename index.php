@@ -10,3 +10,4 @@ echo 'new function close';
 echo 'new function3';
 echo 'new function2';
 echo 'pull test';
+echo 'pull test2';
